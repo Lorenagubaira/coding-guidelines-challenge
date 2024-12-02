@@ -1,13 +1,19 @@
+<!-- hide -->
 # El Desafío de las Normas y Directrices de Programación
+<!-- endhide -->
 
 Estos desafíos te ayudarán a familiarizarte con las guías de programación más populares; cubre las prácticas más esenciales que todos los desarrolladores deben conocer para tener éxito durante las auditorías de código para desarrolladores junior.
 
 > ❗ Recomendamos rotundamente leer la [lección de guías y estándares de programación](https://4geeks.com/es/lesson/estandates-y-lineamientos-de-codigo) antes del desafío.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo comenzar este proyecto
 
 - No clones ni le hagas fork a este repositorio, este no es un proyecto de programación.
 - Tu profesor abrirá estas diapositivas y compartirá la pantalla.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
