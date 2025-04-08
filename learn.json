@@ -1,19 +1,28 @@
 {
 	"slug" : "coding-guidelines-challenge",
-	"title" : "Coding Guidelines Challenge",
+	"title" : {
+		"us": "Coding Guidelines Challenge",
+		"es": "Desafío de las pautas de programación"
+	},
 	"preview": "https://github.com/breatheco-de/coding-guidelines-challenge/blob/master/preview.png?raw=true",
 	"translations": ["us"],
-	"technologies": ["coding-guidelines"],
+	"technologies": ["coding-guidelines", "git"],
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 1,
   "projectType": "project",
-	"description" : "Refactor your code to following industry best practices when coding",
+	"description" : {
+		"us": "Master essential coding standards and guidelines to excel in code audits! Join our challenge and boost your development skills today!",
+		"es": "¡Domina los estándares y directrices de proramación esenciales para destacar en auditorías de código! ¡Únete a nuestro desafío y potencia tus habilidades de desarrollo hoy mismo!"
+	},
 	"delivery": {
 		"instructions": {
 			"us": "Submit the URL of one commit of yours with fixes that improve your or someone else's code quality",
 			"es": "Especifica el URL de un commit de tú autoría donde hayas implementado cambios en código tuyo -o de alguien más- que mejoren la calidad del código y cumplan con mejores prácticas."
 		},
 		"formats": ["url"]
+	},
+	"telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=722"
 	}
 }
