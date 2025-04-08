@@ -5,15 +5,11 @@
 This challenge will help you become familiar with the most popular coding guidelines; It covers the most essential best practices every developer needs to know to succeed during code audits for junior developers.
 
 > ❗ We strongly recommend reading the [coding guidelines lesson](https://4geeks.com/lesson/coding-standards-guidelines) before the challenge.
-
-<onlyfor saas="false" withBanner="false">
   
 ## 🌱 How to start this project
 
 - Do not clone or fork this repository, this is not a coding project.  
 - Your teacher will open these slides and share the screen.
-
-</onlyfor>
 
 ## 📝 Instructions
 
